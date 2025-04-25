@@ -1,0 +1,11 @@
+2025-04-24 00:58:54,179 INFO Chunk combiner produced 124 flights
+2025-04-24 00:58:54,179 INFO Chunk combiner produced 124 flights
+2025-04-24 00:58:54,179 INFO Chunk combiner produced 124 flights
+2025-04-24 00:58:54,179 INFO Chunk combiner produced 124 flights
+2025-04-24 00:58:54,179 INFO Chunk combiner produced 3 flights
+2025-04-24 00:58:54,179 INFO Reduce phase completed
+2025-04-24 00:58:54,179 INFO Top count=27, passengers=['ULZ8130D']
+2025-04-24 00:58:54,179 INFO Summary JSON saved to /Users/zhengzhuohao/Desktop/University of Reading/CSMBD/Crouse work/Log/summary.json
+2025-04-24 00:58:54,396 INFO Histogram saved to /Users/zhengzhuohao/Desktop/University of Reading/CSMBD/Crouse work/output/Task A/departure_histogram.png
+2025-04-24 00:58:54,505 INFO Routes plot saved to /Users/zhengzhuohao/Desktop/University of Reading/CSMBD/Crouse work/output/Task A/flight_routes.png
+2025-04-24 00:58:54,568 INFO Interactive map saved to /Users/zhengzhuohao/Desktop/University of Reading/CSMBD/Crouse work/output/Task A/flight_map.html
